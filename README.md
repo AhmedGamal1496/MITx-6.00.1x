@@ -1,2 +1,3 @@
 # MITx-6.00.1x
-Coding exercises and Problem Sets for MITx: 6.00.1x Introduction to Computer Science and Programming Using Python, edX
+
+Check the 5 weeks problem sets from MITx-6.00.1x course on edX
